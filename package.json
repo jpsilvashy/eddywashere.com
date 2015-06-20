@@ -26,6 +26,6 @@
     "metalsmith-writemetadata": "0.4.4",
     "modularscale-sass": "^2.1.1",
     "gulp-sass": "^2.0.1",
-    "gulp-uglify": "^1.2.0",
+    "gulp-uglify": "^1.2.0"
   }
 }
